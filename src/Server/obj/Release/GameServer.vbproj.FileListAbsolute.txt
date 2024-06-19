@@ -1,0 +1,12 @@
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\GameServer.exe
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\GameServer.pdb
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\GameServer.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\bin\Release\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\GameServer.vbprojResolveAssemblyReference.cache
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\Server.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\GameServer.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\GameServer.exe
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\GameServer.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Server\obj\Release\GameServer.pdb

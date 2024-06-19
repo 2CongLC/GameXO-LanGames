@@ -1,0 +1,41 @@
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\GameServer.exe
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\GameServer.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\GameServer.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\bin\Debug\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\GameServer.vbprojResolveAssemblyReference.cache
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\Server.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\GameServer.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\GameServer.exe
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\GameServer.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Server\obj\Debug\GameServer.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\GameServer.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\GameServer.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\GameServer.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\General.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\General.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\bin\Debug\General.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\Server.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.CopyComplete
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Server\obj\Debug\GameServer.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\GameServer.exe.config
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\GameServer.exe
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\GameServer.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\GameServer.xml
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\General.dll
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\General.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Server\bin\Debug\General.xml
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\Server.Resources.resources
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.vbproj.Up2Date
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.exe
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.xml
+D:\Source VBNet_C#\VBNet\Game XO\Server\obj\Debug\GameServer.pdb

@@ -1,0 +1,47 @@
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\XO.exe
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\XO.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\XO.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\bin\Debug\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\Client.Login.resources
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\Client.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\XO.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\XO.exe
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\XO.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\XO.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\Client\obj\Debug\Client.Game.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Debug\XO.vbprojResolveAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\XO.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\XO.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\XO.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\General.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\General.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\bin\Debug\General.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\Client.Game.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\Client.Login.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\Client.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.vbproj.CopyComplete
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.exe
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\Client\obj\Debug\XO.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\XO.exe.config
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\XO.exe
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\XO.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\XO.xml
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\General.dll
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\General.pdb
+D:\Source VBNet_C#\VBNet\Game XO\Client\bin\Debug\General.xml
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\Client.Game.resources
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\Client.Login.resources
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\Client.Resources.resources
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.vbproj.Up2Date
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.exe
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.xml
+D:\Source VBNet_C#\VBNet\Game XO\Client\obj\Debug\XO.pdb

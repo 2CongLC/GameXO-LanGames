@@ -1,0 +1,12 @@
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\Game_XO.exe
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\Game_XO.pdb
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\Game_XO.xml
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.Resources.resources
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.vbproj.GenerateResource.Cache
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.exe
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.xml
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.pdb
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\General.dll
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\General.pdb
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\bin\Debug\General.xml
+J:\MRCHUCONG_TOOLS\Game_XO\Game_XO\obj\Debug\Game_XO.vbprojResolveAssemblyReference.cache

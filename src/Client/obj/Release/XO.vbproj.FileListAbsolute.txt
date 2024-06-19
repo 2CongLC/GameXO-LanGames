@@ -1,0 +1,14 @@
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\XO.exe
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\XO.pdb
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\XO.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\bin\Release\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\XO.vbprojResolveAssemblyReference.cache
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\Client.Game.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\Client.Login.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\Client.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\XO.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\XO.exe
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\XO.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\Client\obj\Release\XO.pdb

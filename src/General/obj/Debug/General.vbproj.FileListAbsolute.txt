@@ -1,0 +1,36 @@
+J:\MRCHUCONG_TOOLS\Game_XO\General\bin\Debug\General.dll
+J:\MRCHUCONG_TOOLS\Game_XO\General\bin\Debug\General.pdb
+J:\MRCHUCONG_TOOLS\Game_XO\General\bin\Debug\General.xml
+J:\MRCHUCONG_TOOLS\Game_XO\General\obj\Debug\General.Resources.resources
+J:\MRCHUCONG_TOOLS\Game_XO\General\obj\Debug\General.vbproj.GenerateResource.Cache
+J:\MRCHUCONG_TOOLS\Game_XO\General\obj\Debug\General.dll
+J:\MRCHUCONG_TOOLS\Game_XO\General\obj\Debug\General.xml
+J:\MRCHUCONG_TOOLS\Game_XO\General\obj\Debug\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\bin\Debug\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\bin\Debug\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\bin\Debug\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\obj\Debug\General.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\obj\Debug\General.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\obj\Debug\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\obj\Debug\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\Game_XO\General\obj\Debug\General.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\bin\Debug\General.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\bin\Debug\General.pdb
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\bin\Debug\General.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.vbprojAssemblyReference.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.Resources.resources
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.vbproj.GenerateResource.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.vbproj.CoreCompileInputs.cache
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.dll
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.xml
+E:\MÃ NGUỒN LẬP TRÌNH\DỰ ÁN\VBNet\Game XO\General\obj\Debug\General.pdb
+D:\Source VBNet_C#\VBNet\Game XO\General\bin\Debug\General.dll
+D:\Source VBNet_C#\VBNet\Game XO\General\bin\Debug\General.pdb
+D:\Source VBNet_C#\VBNet\Game XO\General\bin\Debug\General.xml
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.vbproj.AssemblyReference.cache
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.Resources.resources
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.vbproj.GenerateResource.cache
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.vbproj.CoreCompileInputs.cache
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.dll
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.xml
+D:\Source VBNet_C#\VBNet\Game XO\General\obj\Debug\General.pdb

@@ -1,0 +1,8 @@
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\bin\Release\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\bin\Release\General.pdb
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\bin\Release\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\obj\Release\General.Resources.resources
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\obj\Release\General.vbproj.GenerateResource.Cache
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\obj\Release\General.dll
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\obj\Release\General.xml
+F:\Setup\MrChuCong_DEV-C#vb\game_XO\General\obj\Release\General.pdb
